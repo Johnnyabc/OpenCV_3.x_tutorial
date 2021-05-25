@@ -7,9 +7,13 @@
 本项目已经在本地环境通过测试
 
 ## 开发环境
-* macOS Mojave 10.14
-* Python 3.6.1
-*OpenCV 3.2.0
+* Win 10
+* Python 3.7.8
+* opencv-python 4.4.0.40
+* opencv-contrib-python 4.4.0.40
 * PyCharm 2018.3
+
+## 友情提醒
+千万不要安装opencv-python-headless,这会导致和特征匹配相关的库无法正常运行
 
 欢迎大家提问和交流
