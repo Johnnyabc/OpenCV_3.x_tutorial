@@ -13,6 +13,9 @@
 * opencv-contrib-python 4.4.0.40
 * PyCharm 2018.3
 
+## 特别鸣谢
+本教程借鉴了段立辉<OpenCV官方教程中文版(For Python)>的工作，在这里表示感谢!!!
+
 ## 友情提醒
 千万不要安装opencv-python-headless,这会导致和特征匹配相关的库无法正常运行
 
